@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=encocoinplus
+Comment=encocoinplus P2P Cryptocurrency
+Exec=encocoinplus-qt %u
+Terminal=false
+Type=Application
+Icon=encocoinplus128
+MimeType=x-scheme-handler/encocoinplus;
+Categories=Office;Finance;
+StartupWMClass=encocoinplus-qt
+Name[en_IN]=encocoinplus-qt.desktop

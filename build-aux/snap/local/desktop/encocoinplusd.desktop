@@ -1,0 +1,16 @@
+# http://standards.freedesktop.org/desktop-entry-spec/desktop-entry-spec-1.0.html
+
+[Desktop Entry]
+Encoding=UTF-8
+Name=EPG_Coin Daemon SNAP
+Comment=main
+GenericName=EPG_Coin Digital Currency Daemon Client main network
+Exec=encocoinplus_coin-core.daemon %u
+Terminal=true
+Type=Application
+Icon=${SNAP}/share/pixmaps/encocoinplus_coin.png
+MimeType=x-scheme-handler/encocoinplus;
+Categories=X-Office;X-Finance;
+Keywords=internet;encocoinplus_coin;zencocoinplus;core;wallet;daemon;main;snap;launchpad;crypto;digital;currency;coin;token;zerocoin;
+Version=1.0
+Name[en_IN]=encocoinplusd.desktop

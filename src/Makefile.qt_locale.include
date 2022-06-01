@@ -1,0 +1,14 @@
+QT_TS = \
+  qt/locale/encocoinplus_de.ts \
+  qt/locale/encocoinplus_en.ts \
+  qt/locale/encocoinplus_en_US.ts \
+  qt/locale/encocoinplus_es.ts \
+  qt/locale/encocoinplus_fr_FR.ts \
+  qt/locale/encocoinplus_hr_HR.ts \
+  qt/locale/encocoinplus_it.ts \
+  qt/locale/encocoinplus_ko_KR.ts \
+  qt/locale/encocoinplus_nl.ts \
+  qt/locale/encocoinplus_pl.ts \
+  qt/locale/encocoinplus_ru.ts \
+  qt/locale/encocoinplus_tr.ts \
+  qt/locale/encocoinplus_zh_CN.ts

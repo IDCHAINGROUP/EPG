@@ -1,0 +1,3 @@
+usr/local/bin/encocoinplusd usr/bin
+usr/local/bin/encocoinplus-cli usr/bin
+debian/examples/encocoinplus.conf etc/encocoinplus

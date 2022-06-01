@@ -1,0 +1,6 @@
+usr/local/bin/encocoinplus-qt usr/bin
+share/pixmaps/encocoinplus32.xpm usr/share/pixmaps
+share/pixmaps/encocoinplus16.xpm usr/share/pixmaps
+share/pixmaps/encocoinplus128.png usr/share/pixmaps
+debian/encocoinplus-qt.desktop usr/share/applications
+debian/encocoinplus-qt.protocol usr/share/kde4/services/
